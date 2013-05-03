@@ -1,0 +1,34 @@
+{
+  "name": "winningjs-search",
+  "description": "Search for WinJS Windows 8 development made easy. Use as a plugin for WinningJS or on its own.",
+  "version": "0.0.1",
+  "author": {
+    "name": "NobleJS"
+  },
+  "contributors": [
+    {
+      "name": "Donavon West",
+      "email": "github@donavon.com",
+      "url": "http://donavon.com/"
+    },
+    {
+      "name": "Paul Bouzakis",
+      "email": "github@paulbouzakis.com",
+      "url": "http://paulbouzakis.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NobleJS/winningjs-search.git"
+  },
+  "bugs": {
+    "url": "http://github.com/NobleJS/winningjs-search/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "pubit-as-promised": ">= 1.0.0"
+  }
+}
